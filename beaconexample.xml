@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IHIAbeacon version="1.0">
+  <sitetitle>示例站点</sitetitle>
+  <sitelink>http://www.example.com</sitelink>
+  <login_required>false</login_required>
+  <interactive>true</interactive>
+  <beaconupdate_frequency>daily</beaconupdate_frequency>
+  <description>-=IHIA演示站点=-</description>
+  <index>http://www.example.com/index.</index>
+</IHIAbeacon>
